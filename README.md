@@ -1,12 +1,17 @@
 <div align="center">
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D7ED3,50:7B61FF,100:BA9CFD&height=260&section=header&text=Rain%20🧬&fontSize=100&fontAlign=50&fontAlignY=38&animation=fadeIn&fontColor=fafafa&desc=🔬%20Multi-omics%20Integration%20%7C%20💉%20Single-cell%20Analysis%20%7C%20🎗️%20Tumor%20Immunology&descSize=22&descAlign=50&descAlignY=58" />
+<!-- <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001F54,50:3A0CA3,100:4361EE&height=260&section=header&text=Rain%20🧬&fontSize=100&fontAlign=50&fontAlignY=38&animation=fadeIn&fontColor=fafafa&desc=🔬%20Multi-omics%20Integration%20%7C%20💉%20Single-cell%20Analysis%20%7C%20🎗️%20Tumor%20Immunology&descSize=22&descAlign=50&descAlignY=58" />
+</div> -->
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D7ED3,100:60A5FA&height=250&section=header&text=PacmanDoh&fontSize=90&fontAlignY=35&animation=fadeIn&fontColor=white" />
 
-# 👋 Hello，here is PacmanDoh
+
+# 👋 Hello，here is Rain！
 
   <p align="center">
     <p align="center">
-      <a href="https://github.com/pacmandoh"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+      <a href="https://github.com/StopTheRain"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
       <a href="mailto:pacmandoh@outlook.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
     </p>
   </p>
@@ -65,5 +70,66 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/pacmandoh/pacmandoh/output/github-snake.svg" width="100%">
   </picture>
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D7ED3,100:60A5FA&height=120&section=footer&animation=twinkling&fontAlignY=80" width="100%"/>
+
+
+
+<h2 align="center">
+  🎯 Research Focus & Interests
+</h2>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+**🧬 Multi-omics Integration**
+- Integrative genomics analysis
+- Multi-modal data fusion
+- Systems biology approaches
+
+**🔬 Single-cell Technologies**
+- scRNA-seq data analysis
+- Spatial transcriptomics
+- Cell trajectory inference
+
+</td>
+<td width="50%" valign="top">
+
+**🎗️ Tumor Immunology**
+- Tumor microenvironment
+- Immune checkpoint analysis
+- Immunotherapy biomarkers
+
+**🤖 Computational Methods**
+- Machine learning pipelines
+- Statistical modeling
+- Algorithm development
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12&height=3" width="100%" />
+</div>
+
+<h2 align="center">
+  💬 Random Dev Quote
+</h2>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="80%" />
+</div>
+
+<br>
+
+<div align="center">
+  <i>⚡ "In God we trust, all others must bring data." — W. Edwards Deming</i>
+</div>
+
+</td>
+</tr>
+</table>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D7ED3,100:60A5FA&height=120&section=footer&animation=twinkling&fontAlignY=80" width="100%"/>
